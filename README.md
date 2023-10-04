@@ -6,6 +6,8 @@ These control surface can be used to control 16 tracks at the same time
 
 This version controls only 16 volume faders, but more customization options are available. [Template script](https://github.com/Gabieler/ableton-live-midi-remote-scripts-python-3/) and examples and explanation can be found in this [video](https://www.youtube.com/watch?v=WJshxA-WCy8)
 
+Tested on Michigan Synth Works XVI Desktop
+
 ## Getting Started
 
 ### Configuration of the Midi Controller
